@@ -66,7 +66,7 @@ A course management platform built with **Node.js** and **MongoDB**. Admins can 
 
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bpratha11193/)  
 - [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your-prathabagtharia@gmail.com)  
-- [Your Portfolio]( https://portfolio-lemon-six-17.vercel.app/)  
+- [Portfolio]( https://portfolio-lemon-six-17.vercel.app/)  
 
 ---
 
