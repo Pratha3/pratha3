@@ -48,13 +48,13 @@ An authentication system built with **Firebase** and **React**. Implements secur
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Firebase-Auth?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/Pratha3/Firebase-Auth?style=social)  
 ![Repo Language](https://img.shields.io/github/languages/top/Pratha3/Firebase-Auth)  
-
-### [☕ Coffee Website](https://github.com/Pratha3/Furniture)  
-A beautifully designed **coffee shop website** built with **HTML**, **CSS**, and **JavaScript**. Fully responsive and optimized for all devices.  
+### [🛒 Furniture Add Cart Website](https://github.com/Pratha3/Furniture)  
+A **furniture e-commerce website** featuring an **add-to-cart** functionality. Built with **HTML**, **CSS**, and **JavaScript**, it provides a seamless shopping experience with a responsive design optimized for all devices.  
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Furniture?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/Pratha3/Furniture?style=social)  
 ![Repo Language](https://img.shields.io/github/languages/top/Pratha3/Furniture)  
+  
 
 ## 📊 GitHub Stats  
 
