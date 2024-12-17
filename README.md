@@ -35,26 +35,26 @@ Hi there! I'm **Pratha Bagthariya** 👋, a passionate developer specializing in
 
 ## 🌟 Noteworthy Projects  
 
-### [📽 Movie Swatch](https://github.com/Pratha3/movie-swatch)  
-A movie browsing app built with **Node.js** and **Express.js**. Users can browse, add reviews, and interact with a fully CRUD-based application. Includes user authentication and a user-friendly UI.  
+### [📂 Portfolio](https://github.com/Pratha3/Portfolio)  
+My personal portfolio showcasing my projects, skills, and experience as a developer. Built with modern web technologies and designed to be fully responsive for an enhanced user experience.  
 
-![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/movie-swatch?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/Pratha3/movie-swatch?style=social)  
-![Repo Language](https://img.shields.io/github/languages/top/Pratha3/movie-swatch)  
+![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Portfolio?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/Pratha3/Portfolio?style=social)  
+![Repo Language](https://img.shields.io/github/languages/top/Pratha3/Portfolio)  
 
-### [☕ Coffee Website](https://github.com/Pratha3/Furniture.git)  
+### [🔒 Firebase Auth](https://github.com/Pratha3/Firebase-Auth)  
+An authentication system built with **Firebase** and **React**. Implements secure login and registration functionality using Firebase Authentication services.  
+
+![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Firebase-Auth?style=social)  
+![GitHub forks](https://img.shields.io/github/forks/Pratha3/Firebase-Auth?style=social)  
+![Repo Language](https://img.shields.io/github/languages/top/Pratha3/Firebase-Auth)  
+
+### [☕ Coffee Website](https://github.com/Pratha3/Furniture)  
 A beautifully designed **coffee shop website** built with **HTML**, **CSS**, and **JavaScript**. Fully responsive and optimized for all devices.  
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Furniture?style=social)  
 ![GitHub forks](https://img.shields.io/github/forks/Pratha3/Furniture?style=social)  
-
-### [🛠 Course Selling App](https://github.com/Pratha3/Firebase-Auth.git)  
-A course management platform built with **Node.js** and **MongoDB**. Admins can create, update, and manage courses, with role-based access for users and admins.  
-
-![GitHub Repo stars](https://img.shields.io/github/stars/Pratha3/Firebase-Auth?style=social)  
-![GitHub forks](https://img.shields.io/github/forks/Pratha3/Firebase-Auth?style=social)  
-
----
+![Repo Language](https://img.shields.io/github/languages/top/Pratha3/Furniture)  
 
 ## 📊 GitHub Stats  
 
