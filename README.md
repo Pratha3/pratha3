@@ -4,7 +4,7 @@ Frontend Developer passionate about building modern, scalable, and high-performa
 
 I mainly work with **React** and **Next.js**, and I also have a basic understanding of backend development, API integration, database handling, and real-time communication systems.  
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pratha3&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=Pratha3&label=Profile%20Views&color=blue&style=flat-square)
 
 ---
 
